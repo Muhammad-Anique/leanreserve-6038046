@@ -22,3 +22,4 @@
 - [x] **Task 6:** ElevenLabs AI Agent API
 - [x] **Task 7:** Staff Dashboard: Booking List
 - [x] **Task 8:** Inventory Configuration UI
+- [x] **Task 9:** Email Notification Edge Function
