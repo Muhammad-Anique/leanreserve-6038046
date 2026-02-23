@@ -20,3 +20,4 @@
 - [x] **Task 4:** Shared UI Components
 - [x] **Task 5:** Public Web Booking Form
 - [x] **Task 6:** ElevenLabs AI Agent API
+- [x] **Task 7:** Staff Dashboard: Booking List
