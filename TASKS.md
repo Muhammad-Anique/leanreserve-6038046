@@ -16,3 +16,4 @@
 **Completed Tasks:**
 - [x] **Task 1:** Basic Project Structure and Types
 - [x] **Task 2:** Supabase Client Configuration
+- [x] **Task 3:** Availability Logic Utility
